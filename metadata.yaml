@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: 'Translation of: Little Foxes'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17313#Pikku-kettuja
 gutenberg_issued: '2005-12-15'
 gutenberg_type: Text
 identifiers:
